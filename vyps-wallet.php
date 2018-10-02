@@ -1,17 +1,17 @@
 <?php
 
 /*
- * Plugin Name: WooCommerce Wallet
- * Plugin URI: https://wordpress.org/plugins/woo-wallet/
- * Description: The leading wallet plugin with partial payment, refunds, cashbacks and what not!
- * Author: Subrata Mal
- * Author URI: https://woowallet.in/
- * Version: 1.2.5
+ * Plugin Name: VYPS WooCommerce Wallet
+ * Plugin URI: https://github.com/VidYen/VYPS-Plugin
+ * Description: A WooCommerce Gateway wallet to transfer points into store credit
+ * Author: VidYen, Subrata Mal
+ * Author URI: https://vidyen.com
+ * Version: 1.2.2
  * Requires at least: 4.4
  * Tested up to: 4.9
  * WC requires at least: 3.0
  * WC tested up to: 3.4
- * 
+ *
  * Text Domain: woo-wallet
  * Domain Path: /languages/
  *

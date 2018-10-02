@@ -1,11 +1,10 @@
 === WooCommerce Wallet - credit, cashback, refund system ===
-Contributors: subratamal, eruditiontec
+Contributors: subratamal, eruditiontec, Vidyen
 Tags: woo wallet, woocommerce wallet, wp wallet, user wallet, refund, cashback, partial payment, wallet, woocommerce wallet, wc wallet, woocommerce credits
 Requires PHP: 5.6
 Requires at least: 4.4
 Tested up to: 4.9
-Stable tag: 1.2.5
-Donate link: https://www.paypal.me/SubrataMal941
+Stable tag: 1.2.2
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -18,7 +17,7 @@ WooCommerce Wallet plugin allows customers to store their money in a digital wal
 [youtube https://www.youtube.com/watch?v=WBCBfdGe6OI]
 
 = Use case of WooCommerce Wallet plugin =
-With this extension, the customers won't have to fill in the payment details every time. They can simply log in and pay for products using the wallet money. The customers will also get the advantage for earning cashback using the wallet money. The admin can process refund to the customer wallet. 
+With this extension, the customers won't have to fill in the payment details every time. They can simply log in and pay for products using the wallet money. The customers will also get the advantage for earning cashback using the wallet money. The admin can process refund to the customer wallet.
 
 = Features of WooCommerce Wallet plugin =
 - Wallet system works just like any other payment method.
@@ -123,26 +122,8 @@ Yes you can! Join in on our [GitHub repository](https://github.com/malsubrata/wo
 6. Admin adjust wallet balance.
 7. WooCommerce wallet payment gateway.
 8. WooCommerce refund.
-9. Wallet actions.
 
 == Changelog ==
-= 1.2.5 - 2018-09-27 =
-* Fix - Resolved performance issue.
-* Add - Wallet REST API with WooCommerce endpoint.
-* Dev - Removed WOO_WALLET_ICON constant.
-
-= 1.2.4 - 2018-09-24 =
-* Fix - Fatal error on WordPress Menu page.
-* Fix - Hide partial payment option for guest user.
-* Fix - Remaining balance display at email template.
-
-= 1.2.3 -2018-09-24 =
-* Fix - Partial payment.
-* Fix - Dokan withdrawal.
-* Add - Dokan auto withdrawal.
-* Add - Wallet icon file.
-* Add - Wallet actions (Admin can now set action for wallet credit).
-
 = 1.2.2 - 2018-08-17 =
 * Fix - Partial payment issue.
 

@@ -1,21 +1,4 @@
 *** Changelog ***
-= 1.2.5 - 2018-09-27 =
-* Fix - Resolved performance issue.
-* Add - Wallet REST API with WooCommerce endpoint.
-* Dev - Removed WOO_WALLET_ICON constant.
-
-= 1.2.4 - 2018-09-24 =
-* Fix - Fatal error on WordPress Menu page.
-* Fix - Hide partial payment option for guest user.
-* Fix - Remaining balance display at email template.
-
-= 1.2.3 -2018-09-24 =
-* Fix- Partial payment.
-* Fix - Dokan withdrawal.
-* Add - Dokan auto withdrawal.
-* Add - Wallet icon file.
-* Add - Wallet actions (Admin can now set action for wallet credit).
-
 = 1.2.2 - 2018-08-17 =
 * Fix - Partial payment issue.
 
